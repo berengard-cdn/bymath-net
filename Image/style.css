@@ -1,0 +1,42 @@
+A.:link{
+	color:#009900
+}
+A.:hover{
+	color: #FF0000 
+}
+A.:active{
+	color:#006600
+}
+A.:visited{
+	color:#006600
+}
+A.menu {
+	COLOR: #000000; FONT: bold 10pt Arial, Helvetica; text-decoration:none; 
+}
+A.menu:hover {
+	COLOR: #000000; TEXT-DECORATION: none
+}
+A.menu:active{
+	COLOR: #000000; TEXT-DECORATION: none
+}
+A.menu:visited{
+	COLOR: #000000; TEXT-DECORATION: none
+}
+.main {
+	FONT: 10pt verdana, arial, helvetica 
+}
+A.test {
+	COLOR: #009900; FONT: bold 13pt Arial, Helvetica; text-decoration:none; 
+}
+A.test:hover {
+	COLOR: #FF0000; TEXT-DECORATION: none
+}
+A.test:active{
+	color:#006600
+}
+A.test:visited{
+	color:#006600
+}
+
+
+
