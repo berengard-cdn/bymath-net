@@ -47,6 +47,10 @@ nav.header-nav {
 	display: none;
 }
 
+h1, h2, h3 {
+	text-align: center;
+}
+
 .site-msg {
 	text-align: center;
 }
