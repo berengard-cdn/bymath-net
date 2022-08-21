@@ -1,7 +1,7 @@
 nav.header-nav {
-	font-family: 'Noto Serif';
 	background-image: url('../img/header-bg.png');
 	background-repeat: no-repeat;
+	font-family: 'Noto Serif';
 }
 
 div#site-nav a {
