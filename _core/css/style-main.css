@@ -1,5 +1,8 @@
-body {
+body, h1, h2, h3{
 	font-family: 'Gabriela' !important;
+}
+
+body {
 	font-size: 14px;
 }
 
